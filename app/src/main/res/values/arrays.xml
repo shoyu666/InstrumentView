@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="defaultLabel">
+        <item>0</item>
+        <item>40</item>
+        <item>80</item>
+        <item>120</item>
+        <item>160</item>
+        <item>200</item>
+        <item>240</item>
+    </string-array>
+    <integer-array name="defaultLabelAngel">
+        <item>135</item>
+        <item>180</item>
+        <item>225</item>
+        <item>270</item>
+        <item>315</item>
+        <item>360</item>
+        <item>405</item>
+    </integer-array>
+</resources>

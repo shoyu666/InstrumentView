@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="InstrumentView">
+        <attr name="BgStartColor" format="color" />
+        <attr name="BgCenterColor" format="color" />
+        <attr name="BgEndColor" format="color" />
+
+        <attr name="PStartColor" format="color" />
+        <attr name="PCenterColor" format="color" />
+        <attr name="PEndColor" format="color" />
+
+        <attr name="EmptyAngle" format="integer" />
+        <attr name="SpiritCount" format="integer" />
+
+        <attr name="OutProcessLineWidth" format="dimension" />
+
+        <attr name="BoundProcessCycleOffset" format="dimension" />
+        <attr name="ProcessOutCycleOffset" format="dimension" />
+        <attr name="OutInCycleOffset" format="dimension" />
+
+        <attr name="OutLabel" format="reference" />
+        <attr name="OutLabelAngel" format="reference" />
+
+        <attr name="LabelTextSize" format="dimension" />
+        <attr name="LabelTextColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="CycleView">
+        <attr name="Cycle_Layout" format="reference" />
+    </declare-styleable>
+</resources>
